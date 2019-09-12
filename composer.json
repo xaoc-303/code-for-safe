@@ -1,0 +1,12 @@
+{
+    "name": "xaoc-303/code-for-safe",
+    "require": {
+        "php": ">7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
+    "autoload": {
+        "classmap": ["src/CodeGenerator.php"]
+    }
+}

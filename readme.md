@@ -1,5 +1,7 @@
 # Code For Safe
 
+[![Build Status](https://travis-ci.org/xaoc-303/code-for-safe.svg?branch=master)](https://travis-ci.org/xaoc-303/code-for-safe)
+
 Задача:
 
 Отец умер, и всё его имущество перешло к жене и детям. Среди имущества был сейф, где он держал свои самые важные бумаги и драгоценности. Детям страшно хотелось попасть в этот сейф.
